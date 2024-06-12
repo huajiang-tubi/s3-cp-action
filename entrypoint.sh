@@ -34,3 +34,5 @@ null
 null
 text
 EOF
+
+rm -f ~/.aws/credentials
